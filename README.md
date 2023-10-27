@@ -5,9 +5,9 @@
 
 - This is just a repo for my ideas and toy projects. I'm super proud of these 3 repos:
 
-https://github.com/neodem/rays
-https://github.com/neodem/orleans
-https://github.com/neodem/coup
+1. https://github.com/neodem/rays
+1. https://github.com/neodem/orleans
+1. https://github.com/neodem/coup
 
 <!---
 neodem/neodem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
