@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning hobby machining
 - 📫 How to reach me : email : neodem@gmail.com
 
-- This is just a repo for my ideas and toy projects. I'm super proud of these 3 repos:
+This is just a repo for my ideas and toy projects. I'm super proud of these 3 repos:
 
 1. https://github.com/neodem/rays
 1. https://github.com/neodem/orleans
